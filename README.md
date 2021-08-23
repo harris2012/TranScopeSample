@@ -1,0 +1,2 @@
+# TranScopeSample
+EFCore TranScopeSample
