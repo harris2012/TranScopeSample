@@ -1,0 +1,16 @@
+{
+  "ConnectionString": "Data Source=118.25.37.7;port=3306;Database=firstdb;User Id=root;Password=harriszhang;CharSet=utf8",
+  "DBName": "firstdb",
+  "Param": {
+    "ProjectName": "TranScopeSample.First",
+    "CSharpRootNamespace": "TranScopeSample.First",
+    "ContextName": "FirstDBContext",
+    "DBName": "firstdb",
+    "IgnoreForeignKey": true,
+    "Version": "1.0.0",
+    "TablePrefix": null,
+    "SolutionName": null,
+    "SolutionGuid": null,
+    "ProjectGuid": null
+  }
+}

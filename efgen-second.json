@@ -1,0 +1,16 @@
+{
+  "ConnectionString": "Data Source=118.25.37.7;port=3306;Database=seconddb;User Id=root;Password=harriszhang;CharSet=utf8",
+  "DBName": "seconddb",
+  "Param": {
+    "ProjectName": "TranScopeSample.Second",
+    "CSharpRootNamespace": "TranScopeSample.Second",
+    "ContextName": "SecondDBContext",
+    "DBName": "seconddb",
+    "IgnoreForeignKey": true,
+    "Version": "1.0.0",
+    "TablePrefix": null,
+    "SolutionName": null,
+    "SolutionGuid": null,
+    "ProjectGuid": null
+  }
+}
